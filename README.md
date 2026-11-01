@@ -4,7 +4,8 @@ Napredna Python aplikacija namijenjena radioamaterima za automatizirano praćenj
 
 ---
 <p align="center">
-  <img src="tnx1.png" width="500" alt="Centrirana slika">
+  <img src="tnx1.png" width="500" alt="main gui ">
+  <img src="tnx2.png" width="500" alt="slots">
 </p>
 
 ## ✨ Glavne mogućnosti
