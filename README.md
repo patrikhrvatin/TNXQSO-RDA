@@ -1,4 +1,3 @@
-```markdown
 # TNX Monitor + RDA Cluster Live 📡
 
 Napredna Python aplikacija namijenjena radioamaterima za automatizirano praćenje i lov na **RDA (Russian District Award)** reference u stvarnom vremenu[cite: 1]. Aplikacija sinkronizira podatke s portala `tnxqso.com` i real-time spot alerte s `rdacabinet.ru` posredstvom Socket.IO protokola, uspoređujući ih s lokalnom matričnom CSV bazom odrađenih slotova[cite: 1].
